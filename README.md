@@ -21,6 +21,12 @@
 
 <br><br>
 
+<h3>Languages I'm learning</h3>
+
+<img src="https://img.shields.io/badge/Learning-Java-red/?logo=java&logoColor=warning&color=red" alt="java">
+
+<br><br>
+
   ![Skj0nes-2's GitHub stats](https://github-readme-stats.vercel.app/api?username=skj0nes-2&show_icons=true&theme=dark)
 
 
